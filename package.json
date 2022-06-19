@@ -21,5 +21,9 @@
   "devDependencies": {
     "parcel-bundler": "^1.12.5",
     "parcel-plugin-nuke-dist": "^1.0.1"
+  },
+  "dependencies": {
+    "bootstrap.native": "^4.2.0",
+    "lodash.throttle": "^4.1.1"
   }
 }
