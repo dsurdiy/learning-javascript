@@ -1,0 +1,20 @@
+{
+  "name": "learning-javascript",
+  "version": "1.0.0",
+  "description": "Repo for learning and practice JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsurdiy/learning-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dsurdiy/learning-javascript/issues"
+  },
+  "homepage": "https://github.com/dsurdiy/learning-javascript#readme"
+}
