@@ -66,24 +66,24 @@
     },
     {
       "title": "Тестовая книга по CSS",
-      "author": "Я",
+      "author": "Манго",
       "genres": [
         "CSS"
       ],
-      "rating": 9,
+      "rating": 3.23,
       "id": 8
     },
     {
-      "title": "Книга по React",
+      "title": "Тестовая новая книга по React",
       "author": "Я",
       "genres": [
         "React"
       ],
-      "rating": 8,
+      "rating": 5,
       "id": 9
     },
     {
-      "title": "Книга по HTML",
+      "title": "Книга по NODE.js",
       "author": "Я",
       "genres": [
         "HTML"
