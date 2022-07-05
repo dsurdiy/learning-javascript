@@ -54,6 +54,42 @@
         "классика"
       ],
       "rating": 7.75
+    },
+    {
+      "title": "Тестовая книга",
+      "author": "Я",
+      "genres": [
+        "JS"
+      ],
+      "rating": 10,
+      "id": 7
+    },
+    {
+      "title": "Тестовая книга по CSS",
+      "author": "Я",
+      "genres": [
+        "CSS"
+      ],
+      "rating": 9,
+      "id": 8
+    },
+    {
+      "title": "Книга по React",
+      "author": "Я",
+      "genres": [
+        "React"
+      ],
+      "rating": 8,
+      "id": 9
+    },
+    {
+      "title": "Книга по HTML",
+      "author": "Я",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 7,
+      "id": 10
     }
   ]
 }
