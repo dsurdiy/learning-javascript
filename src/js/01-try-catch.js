@@ -10,3 +10,16 @@
 //    - message
 //    - stack
 //  - Блок catch без объекта ошибки
+
+try {
+  console.log('Внутри try до myVar');
+
+  myVar;
+
+  console.log('Внутри try после myVar');
+} catch (error) {
+  console.log(error.message);
+  console.log('Ошибка!');
+}
+
+console.log('После блока try...catch');
